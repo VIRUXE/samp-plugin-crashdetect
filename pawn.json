@@ -19,6 +19,6 @@
         }
     ],
     "runtime": {
-        "plugins": ["VIRUXE/samp-plugin-crashdetect"]
+        "plugins": ["Zeex/samp-plugin-crashdetect"]
     }
 }
